@@ -31,7 +31,8 @@ This project is a Jupyter Notebook containing Python code designed to gather and
 3. Install the required Python libraries (if not already installed):
    ```bash
     pip install requests beautifulsoup4 pandas selenium webdriver-manager
-  ```
+   ```
+  
 ## Usage
 
 1. Open the Jupyter Notebook file (`senior_living_scraper.ipynb`) in your Jupyter Notebook environment.
